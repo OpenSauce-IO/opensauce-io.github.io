@@ -16,7 +16,7 @@ footer: opensauce.io
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: wechat
-    url: oldprok
+    url:
   - title: github
     url: https://github.com/opensauce-io
 
